@@ -42,3 +42,30 @@ This is NOT Dark Web.
 This is NOT illegal software.
 
 This project is purely educational to understand encryption and local networking.
+
+---
+
+🚀 How To Use
+On Device 1:
+python server.py
+
+
+Copy:
+
+Encryption key
+
+IP address (run ip a)
+
+On Device 2:
+python client.py
+
+
+Enter:
+
+Server IP
+
+Encryption key
+
+Anonymous name
+
+Start chatting 🔥
