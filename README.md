@@ -22,3 +22,23 @@ ShadowNet is a Local Encrypted Onion Network Simulator built in Termux using Pyt
 pkg update
 pkg install python git
 pip install cryptography
+
+▶️ Run Server
+python server.py
+
+▶️ Run Client
+python client.py
+
+🧠 How It Works
+
+Client encrypts messages →
+Server decrypts and rebroadcasts →
+Other clients receive encrypted message.
+
+⚠️ Disclaimer
+
+This is NOT Tor.
+This is NOT Dark Web.
+This is NOT illegal software.
+
+This project is purely educational to understand encryption and local networking.
